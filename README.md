@@ -58,5 +58,5 @@ If you’d like to add new notebooks, fix bugs, or improve documentation:
 
 ## 👤 Author
 
-**Syed Musab**  
+**Shaikh Musab**  
 🔗 [GitHub Profile](https://github.com/smusab9152)
